@@ -1,0 +1,9 @@
+com\qa\Pages\LoginPage.class
+com\qa\Pages\taskPage.class
+com\qa\Pages\contactsPage.class
+com\qa\Pages\DealsPage.class
+com\qa\Pages\HomePage.class
+ParentClass\parentClass.class
+com\qa\Util\UtilClass.class
+com\qa\Config\configClass.class
+com\qa\TestData\TestDataClass.class
