@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/commons-collections-3.2.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/commons-net-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/dx-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/jcommon-1.0.23 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/jgoodies-common-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/jgoodies-forms-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/jintellitype-1.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/jxgrabkey-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/jython-standalone-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/log4j-1.2.17 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/qtaste-kernel-3.0.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/qtaste-kernel-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/serializer-2.7.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/sikuli-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/sikulixapi-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/sikulixlibslux-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/sikulixlibswin-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/syntaxpane-1.1.4 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/syntaxpane-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/xalan-2.7.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/xercesImpl-2.11.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/xml-apis-1.3.04 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sikuli_jars/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
